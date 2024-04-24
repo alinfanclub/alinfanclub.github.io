@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>https://alinfanclub.github.io/</id>
   <title>Alinfanclub Devlog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-04-24T17:07:37+09:00</updated>
+  <updated>2024-04-24T17:11:53+09:00</updated>
   <author>
     <name>Kim Seounghun</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://alinfanclub.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://alinfanclub.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="ko-KR"
-    href="http://localhost:4000/"/>
+    href="https://alinfanclub.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2024 Kim Seounghun </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Jekyll Chirpy 테마 사용하여 블로그 만들기</title>
-    <link href="http://localhost:4000/posts/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%B2%AB-%EB%B8%94%EB%A1%9C%EA%B7%B8%EA%B8%80/" rel="alternate" type="text/html" title="Jekyll Chirpy 테마 사용하여 블로그 만들기" />
+    <link href="https://alinfanclub.github.io/posts/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%B2%AB-%EB%B8%94%EB%A1%9C%EA%B7%B8%EA%B8%80/" rel="alternate" type="text/html" title="Jekyll Chirpy 테마 사용하여 블로그 만들기" />
     <published>2024-04-24T15:22:07+09:00</published>
   
     <updated>2024-04-24T15:22:07+09:00</updated>
   
-    <id>http://localhost:4000/posts/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%B2%AB-%EB%B8%94%EB%A1%9C%EA%B7%B8%EA%B8%80/</id>
-    <content src="http://localhost:4000/posts/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%B2%AB-%EB%B8%94%EB%A1%9C%EA%B7%B8%EA%B8%80/" />
+    <id>https://alinfanclub.github.io/posts/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%B2%AB-%EB%B8%94%EB%A1%9C%EA%B7%B8%EA%B8%80/</id>
+    <content src="https://alinfanclub.github.io/posts/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%B2%AB-%EB%B8%94%EB%A1%9C%EA%B7%B8%EA%B8%80/" />
     <author>
       <name>cotes</name>
     </author>
@@ -45,13 +45,13 @@
   
   <entry>
     <title>Customize the Favicon</title>
-    <link href="http://localhost:4000/posts/customize-the-favicon/" rel="alternate" type="text/html" title="Customize the Favicon" />
+    <link href="https://alinfanclub.github.io/posts/customize-the-favicon/" rel="alternate" type="text/html" title="Customize the Favicon" />
     <published>2019-08-11T01:34:00+09:00</published>
   
     <updated>2019-08-11T01:34:00+09:00</updated>
   
-    <id>http://localhost:4000/posts/customize-the-favicon/</id>
-    <content src="http://localhost:4000/posts/customize-the-favicon/" />
+    <id>https://alinfanclub.github.io/posts/customize-the-favicon/</id>
+    <content src="https://alinfanclub.github.io/posts/customize-the-favicon/" />
     <author>
       <name>cotes</name>
     </author>
@@ -75,13 +75,13 @@ Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and th
   
   <entry>
     <title>Getting Started</title>
-    <link href="http://localhost:4000/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
+    <link href="https://alinfanclub.github.io/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
     <published>2019-08-09T21:55:00+09:00</published>
   
     <updated>2019-08-09T21:55:00+09:00</updated>
   
-    <id>http://localhost:4000/posts/getting-started/</id>
-    <content src="http://localhost:4000/posts/getting-started/" />
+    <id>https://alinfanclub.github.io/posts/getting-started/</id>
+    <content src="https://alinfanclub.github.io/posts/getting-started/" />
     <author>
       <name>cotes</name>
     </author>
@@ -101,13 +101,13 @@ Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and th
   
   <entry>
     <title>Writing a New Post</title>
-    <link href="http://localhost:4000/posts/write-a-new-post/" rel="alternate" type="text/html" title="Writing a New Post" />
+    <link href="https://alinfanclub.github.io/posts/write-a-new-post/" rel="alternate" type="text/html" title="Writing a New Post" />
     <published>2019-08-08T15:10:00+09:00</published>
   
     <updated>2024-04-24T16:15:04+09:00</updated>
   
-    <id>http://localhost:4000/posts/write-a-new-post/</id>
-    <content src="http://localhost:4000/posts/write-a-new-post/" />
+    <id>https://alinfanclub.github.io/posts/write-a-new-post/</id>
+    <content src="https://alinfanclub.github.io/posts/write-a-new-post/" />
     <author>
       <name>cotes</name>
     </author>
@@ -131,13 +131,13 @@ Create a new file named YYYY-MM-DD-TITLE.EXTENSION and put it in the _posts of t
   
   <entry>
     <title>Text and Typography</title>
-    <link href="http://localhost:4000/posts/text-and-typography/" rel="alternate" type="text/html" title="Text and Typography" />
+    <link href="https://alinfanclub.github.io/posts/text-and-typography/" rel="alternate" type="text/html" title="Text and Typography" />
     <published>2019-08-08T12:33:00+09:00</published>
   
-    <updated>2024-04-24T16:57:55+09:00</updated>
+    <updated>2024-04-24T17:08:20+09:00</updated>
   
-    <id>http://localhost:4000/posts/text-and-typography/</id>
-    <content src="http://localhost:4000/posts/text-and-typography/" />
+    <id>https://alinfanclub.github.io/posts/text-and-typography/</id>
+    <content src="https://alinfanclub.github.io/posts/text-and-typography/" />
     <author>
       <name>cotes</name>
     </author>
