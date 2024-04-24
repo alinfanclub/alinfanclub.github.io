@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Alinfanclub Devlog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-04-24T16:13:48+09:00</updated>
+  <updated>2024-04-24T16:56:40+09:00</updated>
   <author>
     <name>Kim Seounghun</name>
     <uri>http://localhost:4000/</uri>
@@ -104,7 +104,7 @@ Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and th
     <link href="http://localhost:4000/posts/write-a-new-post/" rel="alternate" type="text/html" title="Writing a New Post" />
     <published>2019-08-08T15:10:00+09:00</published>
   
-    <updated>2019-08-08T15:10:00+09:00</updated>
+    <updated>2024-04-24T16:15:04+09:00</updated>
   
     <id>http://localhost:4000/posts/write-a-new-post/</id>
     <content src="http://localhost:4000/posts/write-a-new-post/" />
